@@ -1,0 +1,81 @@
+{
+    "MW51VSU": {
+        "Date&Time": {
+            "2024-05-04": [
+                "10:06:59",
+                "10:11:04",
+                "10:16:22"
+            ]
+        },
+        "image_path": "/Users/MAC/colab/Final_Project_with_display/Sample_results/License_Results/Road1/images/car_7ad715d07b9d4ef98f8b174c8ae296bb.png",
+        "location": "Boyapalem",
+        "Red_line_crossed": {
+            "true": [
+                "2024-05-04",
+                "10:10:59"
+            ]
+        }
+    },
+    "NA13NRU": {
+        "Date&Time": {
+            "2024-05-04": [
+                "10:10:00",
+                "10:15:02",
+                "10:20:08"
+            ]
+        },
+        "image_path": "/Users/MAC/colab/Final_Project_with_display/Sample_results/License_Results/Road1/images/car_a21973ef0b2b4f84b92d4aab70bae9b4.png",
+        "location": "NAD JUNCTION",
+        "Red_line_crossed": {
+            "true": [
+                "2024-05-03",
+                "17:32:00"
+            ]
+        }
+    },
+    "GX15OGJ": {
+        "Date&Time": {
+            "2024-05-04": [
+                "10:10:24"
+            ]
+        },
+        "image_path": "/Users/MAC/colab/Final_Project_with_display/Sample_results/License_Results/Road1/images/car_c169167d0747441494e5ccea5d5765b1.png",
+        "location": "NAD JUNCTION",
+        "Red_line_crossed": {
+            "true": [
+                "2024-05-03",
+                "17:34:24"
+            ]
+        }
+    },
+    "LMI3VCV": {
+        "Date&Time": {
+            "2024-05-03": [
+                "17:36:24"
+            ]
+        },
+        "image_path": "/Users/MAC/colab/Final_Project_with_display/Sample_results/License_Results/Road1/images/car_c6737f764f904adea84d12d7ce6a2058.png",
+        "location": "NAD JUNCTION",
+        "Red_line_crossed": {
+            "true": [
+                "2024-05-03",
+                "17:34:24"
+            ]
+        }
+    },
+    "AP05JEO": {
+        "Date&Time": {
+            "2024-05-03": [
+                "17:37:24"
+            ]
+        },
+        "image_path": "/Users/MAC/colab/Final_Project_with_display/Sample_results/License_Results/Road1/images/car_c8156819c1ff445d8e4c87cc2d3a55f6.png",
+        "location": "NAD JUNCTION",
+        "Red_line_crossed": {
+            "true": [
+                "2024-05-03",
+                "17:34:24"
+            ]
+        }
+    }
+}

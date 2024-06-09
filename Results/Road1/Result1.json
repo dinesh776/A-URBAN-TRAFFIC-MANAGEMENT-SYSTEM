@@ -1,0 +1,53 @@
+{
+    "MW51VSU": {
+        "Date&Time": {
+            "2024-05-04": [
+                "10:13:22",
+                "10:14:29",
+                "10:30:19",
+                "10:31:25"
+            ]
+        },
+        "image_path": "/Users/MAC/colab/Final_Project_with_display/Results/Road1/images/car_6faae277170c4eeba9f22544eb60a22f.png",
+        "location": "Anandapuram",
+        "Red_line_crossed": {
+            "true": [
+                "2024-05-04",
+                "10:13:22"
+            ]
+        }
+    },
+    "NA13NRU": {
+        "Date&Time": {
+            "2024-05-04": [
+                "10:13:23",
+                "10:14:28",
+                "10:30:20",
+                "10:31:24"
+            ]
+        },
+        "image_path": "/Users/MAC/colab/Final_Project_with_display/Results/Road1/images/car_428085a2a23a4394995a67fadd93e9a7.png",
+        "location": "Kurmanapalem",
+        "Red_line_crossed": {
+            "true": [
+                "2024-05-04",
+                "10:13:23"
+            ]
+        }
+    },
+    "GX150GJ": {
+        "Date&Time": {
+            "2024-05-04": [
+                "10:15:14"
+            ]
+        },
+        "image_path": "/Users/MAC/colab/Final_Project_with_display/Results/Road1/images/car_df4ea6b57a2843a0a34bedb9836db6c3.png",
+        "location": "Anandapuram",
+        "Red_line_crossed": {
+            "true": [
+                "2024-05-04",
+                "10:15:14"
+            ]
+        }
+    }
+}
